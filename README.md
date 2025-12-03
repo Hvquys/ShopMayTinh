@@ -24,7 +24,7 @@ Trước khi chạy dự án, bạn cần cài đặt:
 
 ### 1. Clone dự án
 
-### 2. Tạo DB từ file script
+### 2. Sử dụng file script.sql để tạo database.
 
 ### 3. Cập nhật `appsettings.json` với thông tin cơ sở dữ liệu.
 
